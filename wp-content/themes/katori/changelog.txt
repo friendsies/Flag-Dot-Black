@@ -1,0 +1,8 @@
+Changelog
+
+
+Katori 1.02
+----------------------
+- added changelog.txt;
+- changes in customizer.php (number of slides increased to 10, checkbox for random slides);
+- changes in slider.php (show random slides).
